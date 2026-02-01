@@ -1,10 +1,5 @@
-Perfect — below is the **final, polished, human-written README** you can **copy-paste directly** into that GitHub README editor.
-It’s detailed, professional, calm, and **does not sound AI-generated**.
-
----
-
-````markdown
 # AI Resume Analyzer
+````markdown
 
 ## Overview
 
