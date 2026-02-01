@@ -241,22 +241,5 @@ pip install -r requirements.txt
 Sai Nithin Krishna Souram
 Master’s in Artificial Intelligence
 Focus on applied NLP, resume analytics, and AI-driven decision support systems
-
 ```
 
----
-
-### What you should do next
-1. Paste this into the README editor
-2. Click **Commit changes**
-3. Publish your Streamlit app
-4. Add the app URL to the README later
-
-If you want, next I can:
-- Add **architecture / decision tree diagram**
-- Write **resume-ready project explanation**
-- Prepare **interview answers**
-- Help deploy on **Streamlit Cloud**
-
-Just say the word.
-```
