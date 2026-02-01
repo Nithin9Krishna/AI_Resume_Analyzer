@@ -241,5 +241,5 @@ pip install -r requirements.txt
 Sai Nithin Krishna Souram
 Master’s in Artificial Intelligence
 Focus on applied NLP, resume analytics, and AI-driven decision support systems
-```
+
 
