@@ -1,0 +1,42 @@
+AI Engineer
+Palo Alto, CAAI Fund – AI Fund /Full time /Hybrid
+Who we are: 
+AI is the new electricity. Just as it transformed entire industries 100 years ago, AI is poised to do the same today. AI Fund is a venture studio that co-founds companies alongside entrepreneurs, and we build companies from inception to market launch. Founded in 2017 by Dr. Andrew Ng, the $370 million-dollar funded venture studio is backed by top-tier VC firms and investors, and brings to bear the AI Fund teams’ combined experiences as AI pioneers, entrepreneurs, venture capitalists, and builders.
+
+Together, let’s build great companies that will move humanity forward.
+
+What We’re Looking For:
+We’re looking for an AI Engineer with a strong foundation in full-stack software development and proven hands-on experience working with large language models (LLMs) and Generative AI technologies. The ideal candidate will blend practical software engineering skills with deep curiosity and fluency in modern AI workflows.
+
+This role is a great match for someone who loves exploring new technologies, takes initiative, and enjoys working across teams to turn bold ideas into reality. It’s ideal for an engineer who approaches problems with a product mindset, builds with the precision of a systems architect, and brings the curiosity of a researcher. If you're excited about pushing the boundaries of how cutting-edge AI can power real-world applications, we’d be excited to connect with you.
+
+This is a full-time hybrid position for candidates based in the Bay Area. You must already have, or be able to obtain, authorization to work in the United States. 
+What You’ll Do
+Design, develop, and maintain both front-end and back-end components of GenAI-powered applications.
+Build and integrate APIs and third-party services—including tools like Cursor, Windsurf, and various LLM platforms—to enhance AI functionality.
+Collaborate closely with product and engineering teams to prototype and iterate on innovative, AI-driven user experiences.
+Design and manage databases with a focus on performance, reliability, and scalability for AI-intensive applications.
+Contribute to architecture discussions, especially around LLM integration, prompt pipelines, and agentic workflows.
+Stay deeply informed about advancements in GenAI, LLMs, and software development to help evolve our engineering practices and AI capabilities.
+What You Must Bring
+2+ years of experience as a full-stack engineer or in a similar role.
+Proficiency in front-end technologies such as JavaScript, HTML, CSS, and frameworks like React, Vue, or Angular.
+Strong back-end experience in Python, including designing and building scalable APIs and server-side logic.
+Comfortable working with both SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB) databases.
+Skilled in RESTful API design and WebSocket integrations.
+Experience with Git and collaborative workflows in modern software development environments.
+Familiarity with cloud platforms (especially AWS) and containerization tools such as Docker for deployment and environment management.
+Strong communication skills and the ability to collaborate effectively with both technical and non-technical stakeholders.
+Hands-on experience building with LLMs (e.g., OpenAI, Claude, Gemini) in ways that go well beyond basic prompting.
+Practical knowledge of advanced LLM use cases including: Tool/function calling, Agentic workflows, Retrieval-Augmented Generation (RAG), and Finetuning models.
+Familiarity with leading GenAI frameworks and tools such as LangChain, Hugging Face, LlamaIndex, Haystack, or similar.
+Demonstrated ability to integrate AI capabilities into full-stack applications as part of side projects, prior work experience, or academic research.
+A strong interest in the evolving AI/LLM landscape and a drive to stay ahead of emerging trends.
+What You Get Working With Us
+Work directly with leading voices in AI, including Andrew Ng and other accomplished founders and entrepreneurs who are shaping the future of the industry.
+Build real, meaningful products that apply GenAI and LLM technologies to solve important problems across a range of industries.
+Join an ambitious, highly collaborative team that values rapid learning, autonomy, and strong engineering practices.
+Be at the frontier of AI innovation, experimenting with tools like Cursor, Windsurf, and the latest LLM frameworks to push the boundaries of what’s possible.
+Grow your skills and career through hands-on experience with cutting-edge AI technologies, exposure to exceptional mentors, and an environment that encourages experimentation. 
+At AI Fund, we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants without regard to race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law. AI Fund seeks to recruit, develop and retain the most talented people from a diverse candidate pool. Selection for employment is decided on the basis of qualifications, merit, and business need.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
