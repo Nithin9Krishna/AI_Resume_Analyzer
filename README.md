@@ -235,6 +235,12 @@ pip install -r requirements.txt
 ```
 
 ---
+## Project Architecture & Flow
+
+<p align="center">
+  <img src="mind_map.png" alt="AI Resume Analyzer Architecture" width="800">
+</p>
+
 
 ## Author
 
