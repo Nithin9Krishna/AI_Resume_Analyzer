@@ -1,5 +1,4 @@
 # AI Resume Analyzer
-````markdown
 
 ## Overview
 
